@@ -2,4 +2,6 @@
 A simple and minimalistic WordPress FSE Theme
 
 # Getting Started
-https://github.com/labunchemjong/wcktm2023-fse-workshop
+Download the theme from github repository and install the theme.
+
+Github Repo: https://github.com/labunchemjong/wcktm2023-fse-workshop
