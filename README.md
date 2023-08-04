@@ -1,4 +1,4 @@
-# WCKTM-2023-FSE-Workshop
+# WCKTM 2023 FSE Workshop
 A simple and minimalistic WordPress FSE Theme
 
 # Getting Started
