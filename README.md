@@ -2,4 +2,4 @@
 A simple and minimalistic WordPress FSE Theme
 
 # Getting Started
-https://github.com/labunchemjong/WCKTM-2023-FSE-Workshop
+https://github.com/labunchemjong/wcktm2023-fse-workshop
