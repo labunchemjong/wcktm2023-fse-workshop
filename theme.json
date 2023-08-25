@@ -92,8 +92,202 @@
 						"vh",
 						"vw"
 					]
+				},
+				"typography": {
+					"customFontSize": true,
+					"dropCap": true,
+					"fluid": true,
+					"fontFamilies": [
+						{
+							"fontFace": [
+								{
+									"fontFamily": "Poppins",
+									"fontStretch": "normal",
+									"fontStyle": "normal",
+									"fontWeight": "100",
+									"src": [
+										"file:../assets/fonts/poppins/Poppins-Thin.ttf"
+									]
+								},
+								{
+									"fontFamily": "Poppins",
+									"fontStretch": "normal",
+									"fontStyle": "normal",
+									"fontWeight": "200",
+									"src": [
+										"file:../assets/fonts/poppins/Poppins-ExtraLight.ttf"
+									]
+								},
+								{
+									"fontFamily": "Poppins",
+									"fontStretch": "normal",
+									"fontStyle": "normal",
+									"fontWeight": "300",
+									"src": [
+										"file:../assets/fonts/poppins/Poppins-Light.ttf"
+									]
+								},
+								{
+									"fontFamily": "Poppins",
+									"fontStretch": "normal",
+									"fontStyle": "normal",
+									"fontWeight": "400",
+									"src": [
+										"file:../assets/fonts/poppins/Poppins-Regular.ttf"
+									]
+								},
+								{
+									"fontFamily": "Poppins",
+									"fontStretch": "normal",
+									"fontStyle": "normal",
+									"fontWeight": "500",
+									"src": [
+										"file:../assets/fonts/poppins/Poppins-Medium.ttf"
+									]
+								},
+								{
+									"fontFamily": "Poppins",
+									"fontStretch": "normal",
+									"fontStyle": "normal",
+									"fontWeight": "600",
+									"src": [
+										"file:../assets/fonts/poppins/Poppins-SemiBold.ttf"
+									]
+								},
+								{
+									"fontFamily": "Poppins",
+									"fontStretch": "normal",
+									"fontStyle": "normal",
+									"fontWeight": "700",
+									"src": [
+										"file:../assets/fonts/poppins/Poppins-Bold.ttf"
+									]
+								},
+								{
+									"fontFamily": "Poppins",
+									"fontStretch": "normal",
+									"fontStyle": "normal",
+									"fontWeight": "800",
+									"src": [
+										"file:../assets/fonts/poppins/Poppins-ExtraBold.ttf"
+									]
+								},
+								{
+									"fontFamily": "Poppins",
+									"fontStretch": "normal",
+									"fontStyle": "normal",
+									"fontWeight": "900",
+									"src": [
+										"file:../assets/fonts/poppins/Poppins-Black.ttf"
+									]
+								}
+							],
+							"fontFamily": "\"Poppins\", sans-serif",
+							"name": "Poppins",
+							"slug": "poppins"
+						}
+					],
+					"fontSizes": [],
+					"fontStyle": true,
+					"fontWeight": true,
+					"letterSpacing": true,
+					"textDecoration": true,
+					"textTransform": true
 				}
 			}
+		},
+		"typography": {
+			"fluid": true,
+			"fontFamilies": [
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Poppins",
+							"fontStretch": "normal",
+							"fontStyle": "normal",
+							"fontWeight": "100",
+							"src": [
+								"file:../assets/fonts/poppins/Poppins-Thin.ttf"
+							]
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStretch": "normal",
+							"fontStyle": "normal",
+							"fontWeight": "200",
+							"src": [
+								"file:../assets/fonts/poppins/Poppins-ExtraLight.ttf"
+							]
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStretch": "normal",
+							"fontStyle": "normal",
+							"fontWeight": "300",
+							"src": [
+								"file:../assets/fonts/poppins/Poppins-Light.ttf"
+							]
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStretch": "normal",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:../assets/fonts/poppins/Poppins-Regular.ttf"
+							]
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStretch": "normal",
+							"fontStyle": "normal",
+							"fontWeight": "500",
+							"src": [
+								"file:../assets/fonts/poppins/Poppins-Medium.ttf"
+							]
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStretch": "normal",
+							"fontStyle": "normal",
+							"fontWeight": "600",
+							"src": [
+								"file:../assets/fonts/poppins/Poppins-SemiBold.ttf"
+							]
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStretch": "normal",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": [
+								"file:../assets/fonts/poppins/Poppins-Bold.ttf"
+							]
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStretch": "normal",
+							"fontStyle": "normal",
+							"fontWeight": "800",
+							"src": [
+								"file:../assets/fonts/poppins/Poppins-ExtraBold.ttf"
+							]
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStretch": "normal",
+							"fontStyle": "normal",
+							"fontWeight": "900",
+							"src": [
+								"file:../assets/fonts/poppins/Poppins-Black.ttf"
+							]
+						}
+					],
+					"fontFamily": "\"Poppins\", sans-serif",
+					"name": "Poppins",
+					"slug": "poppins"
+				}
+			]
 		}
 	},
 	"styles": {
@@ -251,12 +445,7 @@
 					"textDecoration": "none"
 				},
 				"spacing": {
-					"margin": {
-						"top": "0",
-						"bottom": "0",
-						"left": "0",
-						"right": "0"
-					}
+					"margin": "0"
 				}
 			},
 			"core/query-pagination-numbers": {
@@ -264,12 +453,7 @@
 					"textDecoration": "none"
 				},
 				"spacing": {
-					"margin": {
-						"top": "0",
-						"bottom": "0",
-						"left": "0",
-						"right": "0"
-					}
+					"margin": "0"
 				}
 			},
 			"core/query-pagination-next": {
@@ -277,12 +461,7 @@
 					"textDecoration": "none"
 				},
 				"spacing": {
-					"margin": {
-						"top": "0",
-						"bottom": "0",
-						"left": "0",
-						"right": "0"
-					}
+					"margin": "0"
 				}
 			},
 			"core/site-title": {
