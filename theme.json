@@ -445,7 +445,12 @@
 					"textDecoration": "none"
 				},
 				"spacing": {
-					"margin": "0"
+					"margin": {
+						"top": "0",
+						"bottom": "0",
+						"left": "0",
+						"right": "0"
+					}
 				}
 			},
 			"core/query-pagination-numbers": {
@@ -453,7 +458,12 @@
 					"textDecoration": "none"
 				},
 				"spacing": {
-					"margin": "0"
+					"margin": {
+						"top": "0",
+						"bottom": "0",
+						"left": "0",
+						"right": "0"
+					}
 				}
 			},
 			"core/query-pagination-next": {
@@ -461,7 +471,12 @@
 					"textDecoration": "none"
 				},
 				"spacing": {
-					"margin": "0"
+					"margin": {
+						"top": "0",
+						"bottom": "0",
+						"left": "0",
+						"right": "0"
+					}
 				}
 			},
 			"core/site-title": {
