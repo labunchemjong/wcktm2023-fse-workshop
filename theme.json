@@ -25,6 +25,10 @@
                     "slug": "background"
                 }
             ]
+        },
+        "layout": {
+            "contentSize": "1200px",
+            "wideSize": "100%"
         }
     }
 }
