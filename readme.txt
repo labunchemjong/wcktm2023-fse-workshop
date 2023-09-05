@@ -1,4 +1,4 @@
-=== WordCamp Kathmandu 2023 Workshop ===
+=== WordCamp Kathmandu 2023 FSE Workshop ===
 Contributors: WordCamp Kathmandu 2023
 Requires at least: 6.0
 Tested up to: 6.3
@@ -11,8 +11,8 @@ This is a demo theme created on Workshop of WordCamp Kathmandu 2023
 
 == Copyright ==
 
-WordCamp Kathmandu 2023 Workshop WordPress Theme, (C) 2023 WordCamp Kathmandu 2023
-WordCamp Kathmandu 2023 Workshop is distributed under the terms of the GNU GPL.
+WordCamp Kathmandu 2023 Workshop WordPress Theme, (C)
+WordCamp Kathmandu 2023 FSE Workshop is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
