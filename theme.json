@@ -1,4 +1,30 @@
 {
     "$schema": "https://schemas.wp.org/wp/6.2/theme.json",
-    "version": 2
+    "version": 2,
+    "settings": {
+        "color": {
+            "palette": [
+                {
+                    "color": "#0f6ed7",
+                    "name": "Primary",
+                    "slug": "primary"
+                },
+                {
+                    "color": "#181529",
+                    "name": "Secondary",
+                    "slug": "secondary"
+                },
+                {
+                    "color": "#161c2e",
+                    "name": "Tertiary",
+                    "slug": "tertiary"
+                },
+                {
+                    "color": "#f9f9f9",
+                    "name": "Background",
+                    "slug": "background"
+                }
+            ]
+        }
+    }
 }
