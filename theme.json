@@ -130,6 +130,15 @@
             ]
         }
     },
+    "styles": {
+        "blocks": {
+            "core/site-title": {
+                "typography": {
+                    "textDecoration": "none"
+                }
+            }
+        }
+    },
     "templateParts": [
         {
             "area": "header",
