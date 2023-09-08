@@ -31,6 +31,19 @@
             "contentSize": "1200px",
             "wideSize": "100%"
         },
+        "spacing": {
+            "spacingScale": {
+                "steps": 0
+            },
+            "units": [
+                "%",
+                "px",
+                "em",
+                "rem",
+                "vh",
+                "vw"
+            ]
+        },
         "typography": {
             "fluid": true,
             "fontFamilies": [
@@ -128,7 +141,8 @@
                     "slug": "Poppins"
                 }
             ]
-        }
+        },
+        "useRootPaddingAwareAlignments": true
     },
     "styles": {
         "blocks": {
