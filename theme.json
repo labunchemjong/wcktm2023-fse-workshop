@@ -149,6 +149,45 @@
                         }
                     }
                 }
+            },
+            "core/query-pagination-numbers": {
+                "elements": {
+                    "link": {
+                        "typography": {
+                            "textDecoration": "none"
+                        },
+                        "spacing": {
+                            "margin": {
+                                "left": "10px",
+                                "right": "10px"
+                            }
+                        }
+                    }
+                }
+            },
+            "core/query-pagination-previous": {
+                "typography": {
+                    "textDecoration": "none"
+                },
+                "elements": {
+                    "link": {
+                        "typography": {
+                            "textDecoration": "none"
+                        }
+                    }
+                }
+            },
+            "core/query-pagination-next": {
+                "typography": {
+                    "textDecoration": "none"
+                },
+                "elements": {
+                    "link": {
+                        "typography": {
+                            "textDecoration": "none"
+                        }
+                    }
+                }
             }
         }
     },
