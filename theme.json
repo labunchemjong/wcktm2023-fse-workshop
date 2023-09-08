@@ -133,8 +133,21 @@
     "styles": {
         "blocks": {
             "core/site-title": {
-                "typography": {
-                    "textDecoration": "none"
+                "elements": {
+                    "link": {
+                        "typography": {
+                            "textDecoration": "none"
+                        }
+                    }
+                }
+            },
+            "core/post-title": {
+                "elements": {
+                    "link": {
+                        "typography": {
+                            "textDecoration": "none"
+                        }
+                    }
                 }
             }
         }
